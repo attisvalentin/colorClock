@@ -1,0 +1,27 @@
+* { margin: 0; padding: 0; }
+
+html, body {
+    height: 100%;
+  }
+  
+  #clock {
+    text-align: center;
+    position: relative;
+    top: 50%;
+    left: 35%;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin-top: -6rem;
+    color: white;
+    padding: 3rem;
+    border: .1rem solid;
+    border-radius: 1rem;
+    display: inline-block;
+
+  }
+
+  #player {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    display: inline-block;
+  }
